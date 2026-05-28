@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Mahdavifar"
+    given-names: "Benyamin"
+title: "iris-data-quality: Effect of train/test split and label noise on decision trees"
+version: 1.0.0
+date-released: 2026-05-27
+url: "https://github.com/BenyaminMahdavifar/iris-data-quality"
