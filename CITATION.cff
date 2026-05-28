@@ -3,7 +3,7 @@ message: "If you use this work, please cite it as below."
 authors:
   - family-names: "Mahdavifar"
     given-names: "Benyamin"
-title: "iris-data-quality: Effect of train/test split and label noise on decision trees"
+title: "lstm-dropout-stock-prediction: Evaluating Dropout Patterns in Deep LSTM Networks for Stock Price Prediction"
 version: 1.0.0
-date-released: 2026-05-27
-url: "https://github.com/BenyaminMahdavifar/iris-data-quality"
+date-released: 2026-05-28
+url: "https://github.com/BenyaminMahdavifar/lstm-dropout-stock-prediction"
