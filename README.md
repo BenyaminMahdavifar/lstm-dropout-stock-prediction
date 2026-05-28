@@ -1,4 +1,4 @@
-﻿# Evaluating Dropout Patterns in Deep LSTM Networks for Stock Price Prediction
+
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
